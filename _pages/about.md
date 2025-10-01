@@ -11,15 +11,16 @@ redirect_from:
 (The site is under construction! Sorry for (temporarily) limited information.)
 
 
-I am a Ph.D. candidate in applied physics at [CEITEC](https://www.ceitec.eu/) in Brno, Czech Republic. I also collaborate with [KASL](https://www.kasl.ai/) and was previously a visiting Ph.D. student at the University of Cambridge, advised by David Krueger.
+I am a postdoctoral researcher at [CEITEC](https://www.ceitec.eu/) with interests in technical AI safety, security, and the science of deep learning. I hold a PhD in applied physics and have worked on interpretable machine learning for spectroscopy as well as foundational aspects of deep learning. I also collaborate with [KASL](https://www.kasl.ai/) and was previously a visiting Ph.D. student at the University of Cambridge, advised by David Krueger.
 
-My current research focuses on foundational topics in machine learning (ML), where I am mostly interested in understanding deep learning through empirical and theoretical methods, usually grounded in physics. The main motivation is to achieve interpretable and safe ML/AI for science and general use. My work includes various topics in overparameterization, loss-landscape geometry, sparsity, and adversarial robustness of deep networks.
-Prior to that, I worked on interpretable machine learning applied to spectroscopic data and physics-inspired learning.
+My current research focuses on foundational topics in machine learning, such as loss-landscape geometry, parameter space symmetries, mode connectivity, and overparameterization, with the broader aim of advancing AI security and safety. I combine empirical and theoretical approaches, often grounded in physics, to better understand deep learning and improve its interpretability and robustness.
 
 When I'm not busy with ML experiments, you can find me bouldering or cycling. I also enjoy hiking, playing guitar, and reading physics books from my vast collection.
 
 <div class="news-section" markdown="1">
 ## News
+
+**July 2025:** I am joining the Artificial Intelligence Governance Initiative (AIGI) at Oxford University as a Visiting Research Fellow for three months.
 
 **Jan. 2025:** Input space mode connectivity was accepted to ICLR 2025.
 
