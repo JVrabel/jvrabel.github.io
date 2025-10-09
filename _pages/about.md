@@ -20,9 +20,11 @@ When I'm not busy with ML experiments, you can find me bouldering or cycling. I 
 <div class="news-section" markdown="1">
 ## News
 
-**July 2025:** I am joining the Artificial Intelligence Governance Initiative (AIGI) at Oxford University as a Visiting Research Fellow for three months.
+**Oct. 2025:** I gave a talk on Mode Connectivity for AI Security&Safety at the [Oxford AI Safety Initiative](https://www.oaisi.org/)'s technical roundtable seminar. 
 
-**Jan. 2025:** Input space mode connectivity was accepted to ICLR 2025.
+**July 2025:** I am joining the Artificial Intelligence Governance Initiative (AIGI) at the Oxford University as a Visiting Research Fellow for three months to work on automated interpretability (with Fazl Barez).
+
+**Jan. 2025:** Input space mode connectivity was accepted to [ICLR 2025](https://openreview.net/forum?id=3qeOy7HwUT).
 
 **Oct. 2024:** Input space mode connectivity was accepted for an [oral presentation](https://neurips.cc/virtual/2024/workshop/84741#collapse-sl-109173) at [SciForDL](https://scienceofdlworkshop.github.io/) at NeurIPS 2024.
 
