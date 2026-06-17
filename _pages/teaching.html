@@ -1,12 +1,48 @@
 ---
-layout: archive
+layout: minimal
+nav: teaching
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
 ---
 
-{% include base_path %}
+<h1 class="page-title">Teaching</h1>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="entry">
+  <h3>LIBS spectra processing</h3>
+  <div class="meta"><span class="tag">tutorial</span>CEITEC · Brno, Czech Republic · 2023</div>
+  <p>J. Hruska and I created this tutorial as an introduction to processing spectroscopic data in Python. It covers
+  everything from loading the data, exploration and visualization, preprocessing, and feature extraction, up to
+  classification — using PCA, t-SNE, random forest, SVM, and MLP. It's used for the DS114 (Laser-Induced Breakdown
+  Spectroscopy) Ph.D. course at the
+  <a href="https://amn-phd.ceitec.cz/courseworks/" target="_blank" rel="noopener">CEITEC PhD School</a>.</p>
+  <div class="project links" style="font-size:.85rem">
+    <a href="https://colab.research.google.com/drive/1jx6hLfTe2dkyTn_bUOHnzB3pKyoCi0GL?usp=sharing" target="_blank" rel="noopener">Tutorial (Colab)</a>
+  </div>
+</div>
+
+<div class="entry">
+  <h3>PaVE (guest lectures)</h3>
+  <div class="meta"><span class="tag">seminars</span>BUT, Institute of Physical Engineering &amp; Nanotechnology · Brno, Czech Republic</div>
+  <p>2–3 guest lectures covering an introduction to Artificial Neural Networks (ANN) and ANN applications in physics.
+  The last lecture covers practical implementation in Python (topics selected on the go; past years included
+  backprop without libraries, object-oriented ANN code from scratch, a Keras classifier, and a basic data-processing
+  pipeline for spectroscopic data). Based on
+  <a href="https://arxiv.org/pdf/1803.08823.pdf" target="_blank" rel="noopener">A high-bias, low-variance introduction to Machine Learning for physicists</a>
+  and <a href="https://pad.gwdg.de/s/Machine_Learning_For_Physicists_2021" target="_blank" rel="noopener">Machine Learning for Physicists (F. Marquardt)</a>.</p>
+</div>
+
+<div class="entry">
+  <h3>Physics 2</h3>
+  <div class="meta"><span class="tag">seminars</span>BUT, Institute of Physical Engineering &amp; Nanotechnology · Brno, Czech Republic</div>
+  <p>Theoretical seminars for the introductory physics course (electricity &amp; magnetism).
+  <a href="http://physics.fme.vutbr.cz/ufi.php?Action=0&Id=86" target="_blank" rel="noopener">Exercises</a> (in Czech) ·
+  <a href="http://physics.fme.vutbr.cz/bodyf2" target="_blank" rel="noopener">Points</a></p>
+</div>
+
+<div class="entry">
+  <h3>Physics 1</h3>
+  <div class="meta"><span class="tag">seminars</span>BUT, Institute of Physical Engineering &amp; Nanotechnology · Brno, Czech Republic</div>
+  <p>Theoretical seminars for the introductory physics course (classical mechanics &amp; thermodynamics).
+  <a href="http://physics.fme.vutbr.cz/ufi.php?Action=0&Id=97" target="_blank" rel="noopener">Exercises</a> (in Czech) ·
+  <a href="http://physics.fme.vutbr.cz/bodyf2" target="_blank" rel="noopener">Points</a></p>
+</div>
