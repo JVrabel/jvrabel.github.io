@@ -22,11 +22,7 @@ redirect_from:
     </ul>
   </div>
   <div>
-    <p>I am a postdoctoral researcher at <a href="https://www.ceitec.eu/" target="_blank" rel="noopener">CEITEC</a>
-    with interests in technical AI safety, security, and the science of deep learning. I hold a PhD in applied
-    physics and have worked on interpretable machine learning for spectroscopy as well as foundational aspects of
-    deep learning. I also collaborate with <a href="https://www.kasl.ai/" target="_blank" rel="noopener">KASL</a>
-    and was previously a visiting Ph.D. student at the University of Cambridge, advised by David Krueger.</p>
+    <p>I am a postdoctoral researcher at <a href="https://www.cst.cam.ac.uk/" target="_blank" rel="noopener">CST, University of Cambridge</a>, advised by Rob Mullins, with interests in technical AI safety, security, and the science of deep learning. I did my PhD in applied physics at <a href="https://www.ceitec.eu/ceitec-but" target="_blank" rel="noopener">CEITEC</a>, where I worked on interpretable machine learning for spectroscopy as well as foundational aspects of deep learning. I also collaborate with <a href="https://www.kasl.ai/" target="_blank" rel="noopener">KASL</a> and was a visiting PhD student at CBL, University of Cambridge, advised by David Krueger.</p>
   </div>
 </section>
 
